@@ -1,4 +1,4 @@
-# Setting up a bot application
+#Music bot
 
 ## Creating your bot
 
